@@ -3,6 +3,7 @@ import pandas as pd
 import wbdata
 import datetime
 import matplotlib.pyplot as plt
+from matplotlib.ticker import FuncFormatter
 import seaborn as sns
 
 # Title for the file
@@ -78,14 +79,6 @@ indicators = {
 }
 
 indicator_names = list(indicators.keys())
-
-import matplotlib.pyplot as plt
-import seaborn as sns
-from matplotlib.ticker import FuncFormatter
-
-import matplotlib.pyplot as plt
-import seaborn as sns
-from matplotlib.ticker import FuncFormatter
 
 with tab1:
     selected_country = st.selectbox('Select a country for analysis:', country_options)
