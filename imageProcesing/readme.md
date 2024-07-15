@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Image Processing and OCR Project! This project is designed to help you search through newspaper images for specific keywords and detect faces on those pages. By using powerful Python libraries, we've created a tool that makes exploring and analyzing newspaper content easy and interactive.
+Welcome to the Image Processing and OCR Project! This project is the final project for the Python 3 Programming Specialization at the University of Michigan. It involves processing a zip file containing multiple images, extracting text from each image, and detecting faces in images that contain a specified word. The detected faces are then displayed in a contact sheet format.
 
 ## How It Works
 
@@ -19,15 +19,18 @@ Welcome to the Image Processing and OCR Project! This project is designed to hel
 
 ## Technologies Used
 
+- **Zipfile:** For handling zip file operations.
 - **Pillow (PIL):** For image processing and creating contact sheets.
 - **OpenCV:** For detecting faces in the images.
 - **Pytesseract:** For performing Optical Character Recognition (OCR) to extract text.
-- **Python:** For overall programming and integration of these libraries.
+- **numpy:** For array operations.
 
 ## Example Use Case
 
-- **Search for "Christopher":** Get a contact sheet with all faces on pages mentioning "Christopher".
 - **Search for "Mark":** View all faces on pages mentioning "Mark", even if some pages don’t have faces.
+
+![Contact Sheet](contact_sheet.png)
+![Terminal](terminal.png)
 
 ## Why Use This Tool?
 
