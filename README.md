@@ -1,19 +1,25 @@
 
 # My Data Science Portfolio
 
-Welcome to my data science portfolio! I’m Gabriela, an economist with a master's degree in development economics and extensive experience in data analysis, machine learning, and data visualization. Currently expanding my expertise in data science, I aim to leverage data to drive impactful decisions and innovative solutions.
+Welcome to my data science portfolio! I’m Gabriela, an economist with a Master's Degree in Development Economics and extensive experience in data analysis, machine learning, and data visualization. Currently expanding my expertise in Data Science, I aim to leverage data to drive impactful decisions and innovative solutions.
 
 ## Table of Contents
-
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Education and Certifications](#education)
-- [Contact](#contact)
-- [License](#license)
+- [My Data Science Portfolio](#my-data-science-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [About Me](#about-me)
+    - [Skills](#skills)
+  - [Projects](#projects)
+    - [1. Visualizing Key Economic Indicators](#1-visualizing-key-economic-indicators)
+    - [2. Image Processing and OCR Project](#2-image-processing-and-ocr-project)
+  - [Education and Certifications](#education-and-certifications)
+    - [Education](#education)
+    - [Certifications](#certifications)
+  - [Contact](#contact)
+  - [License](#license)
 
 ## About Me
 
-I have a strong foundation in economics and development, which gives me valuable insights into how data can influence decision-making processes. I am deeply committed to using data to address real-world challenges and improve outcomes. To further enhance my skills, I am pursuing a Master's in Data Science from UC Chile.
+I have a strong foundation in Economics and Development, which gives me valuable insights into how data can influence decision-making processes. I am deeply committed to using data to address real-world challenges and improve outcomes. To further enhance my skills, I am pursuing a Master of Science in Data Science from UC Chile.
 
 ### Skills
 
@@ -27,13 +33,24 @@ I have a strong foundation in economics and development, which gives me valuable
 
 Here are some key projects that showcase my expertise and contributions in data science. Each project folder contains a detailed README with information about the project, data sources, methodologies, and results.
 
+### 1. [Visualizing Key Economic Indicators](streamlitEconomicIndicators/Readme_KeyEconomicIndicators.md)
+
+This project provides an in-depth analysis and visualization of crucial economic indicators for various countries, using World Bank data to present trends and insights interactively. Users can select countries and indicators to generate customized visualizations, aiding in the understanding of global economic performance.
+
+**Technologies Used:** Python, Streamlit, Pandas, wbdata, Matplotlib, Seaborn
+
+### 2. Image Processing and OCR Project
+
+Under construction 👩‍💻
 
 ## Education and Certifications
 
 ### Education
 
-- **Pontificia Universidad Católica de Chile (Aug 2024 - Sep 2026):** Master of Science, Major in Data Science
-- **Facultad Latinoamericana de Ciencias Sociales (Oct 2020 - Mar 2023):** Master’s degree, Major in Development Economics
+- **Pontificia Universidad Católica de Chile (Aug 2024 - Sep 2026):** 
+  - Master of Science, Major in Data Science
+- **Facultad Latinoamericana de Ciencias Sociales (Oct 2020 - Mar 2023):** 
+  - Master’s degree, Major in Development Economics
 
 ### Certifications
 
@@ -47,8 +64,7 @@ Here are some key projects that showcase my expertise and contributions in data 
 
 I am always interested in connecting with other professionals and discussing potential collaborations. Feel free to reach out to me via:
 
-- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub:** [github.com/your-github-profile](https://github.com/gabpen/ds_projects/)
+- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](www.linkedin.com/in/magabriela-penaherrera)
 
 ## License
 
