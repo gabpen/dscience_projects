@@ -33,7 +33,7 @@ I have a strong foundation in Economics and Development, which gives me valuable
 
 Here are some key projects that showcase my expertise and contributions in data science. Each project folder contains a detailed README with information about the project, data sources, methodologies, and results.
 
-### 1. [Visualizing Key Economic Indicators](streamlitEconomicIndicators/Readme_KeyEconomicIndicators.md)
+### 1. [Visualizing Key Economic Indicators](streamlitEconomicIndicators/README.md)
 
 This project provides an in-depth analysis and visualization of crucial economic indicators for various countries, using World Bank data to present trends and insights interactively. Users can select countries and indicators to generate customized visualizations, aiding in the understanding of global economic performance.
 
