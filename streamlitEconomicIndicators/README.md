@@ -41,7 +41,7 @@ This project, titled "Visualizing Key Economic Indicators," aims to provide an i
 
 The plot below shows the trends of these selected indicators for the United States, providing valuable insights into the country's economic performance and sustainability.
 
-![alt text](<Screenshot 2024-07-14 at 8.09.43 PM.png>)
+![alt text](<EconomicIndicators.png>)
 
 ## Conclusion
 
