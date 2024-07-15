@@ -58,6 +58,7 @@ Under construction 👩‍💻
 - Python 3 Programming Specialization – University of Michigan on Coursera
 - Statistics with Python Specialization – University of Michigan on Coursera
 - Python for Everybody - University of Michigan on Coursera
+- Treatment, Statistical Modeling, and Dynamic Visualization with R - R Users Group Ecuador
 - Data Science: R Basics – Harvard on edX
 
 ## Contact
@@ -68,6 +69,6 @@ I am always interested in connecting with other professionals and discussing pot
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the MIT License. See the [LICENSE](https://mit-license.org) file for more details.
 
 ---
