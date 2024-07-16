@@ -38,6 +38,3 @@ Welcome to the Image Processing and OCR Project! This project is the final proje
 - **Improve Insights:** Visualize data more effectively with contact sheets of detected faces.
 - **Easy to Use:** Simply unzip, search, and view results!
 
----
-
-Thank you for checking out this project! Dive in to explore more and see how data and image processing can unlock new insights in newspaper content.
