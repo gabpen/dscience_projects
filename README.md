@@ -10,7 +10,12 @@ Welcome to my data science portfolio! I’m Gabriela, an economist with a Master
     - [Skills](#skills)
   - [Projects](#projects)
     - [1. Visualizing Key Economic Indicators](#1-visualizing-key-economic-indicators)
-    - [2. Image Processing and OCR Project](#2-image-processing-and-ocr-project)
+    - [2. Economic Impact of Policy Changes](#2-economic-impact-of-policy-changes)
+    - [3. Predictive Modeling for Economic Indicators](#3-predictive-modeling-for-economic-indicators)
+    - [4. Social Network Analysis of Economic Interactions](#4-social-network-analysis-of-economic-interactions)
+    - [5. Impact of Education on Economic Growth](#5-impact-of-education-on-economic-growth)
+    - [6. Poverty Mapping and Analysis](#6-poverty-mapping-and-analysis)
+    - [7. Image Processing and OCR Project](#7-image-processing-and-ocr-project)
   - [Education and Certifications](#education-and-certifications)
     - [Education](#education)
     - [Certifications](#certifications)
@@ -39,9 +44,31 @@ This project provides an in-depth analysis and visualization of crucial economic
 
 **Technologies Used:** Python, Streamlit, Pandas, wbdata, Matplotlib, Seaborn
 
-### 2. Image Processing and OCR Project
+###  2. Economic Impact of Policy Changes
 
 Under construction 👩‍💻
+
+### 3. Predictive Modeling for Economic Indicators
+
+Under construction 👩‍💻
+
+### 4. Social Network Analysis of Economic Interactions
+
+Under construction 👩‍💻
+
+### 5. Impact of Education on Economic Growth
+
+Under construction 👩‍💻
+
+### 6. Poverty Mapping and Analysis
+
+Under construction 👩‍💻
+
+### [7. Image Processing and OCR Project](imageProcesing/README.md)
+
+This project leverages Tesseract OCR and OpenCV to extract text from images and detect faces within them. The goal is to search for a specific word in the text extracted from each image, and if found, detect and display faces from the corresponding image.
+
+**Technologies used:** Python, Tesseract OCR, OpenCV, Pillow, numpy.
 
 ## Education and Certifications
 
@@ -63,9 +90,7 @@ Under construction 👩‍💻
 
 ## Contact
 
-I am always interested in connecting with other professionals and discussing potential collaborations. Feel free to reach out to me via:
-
-- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](www.linkedin.com/in/magabriela-penaherrera)
+Feel free to reach out to me on [Linkedin](www.linkedin.com/in/magabriela-penaherrera).
 
 ## License
 
