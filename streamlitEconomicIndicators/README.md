@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-This project, titled "Visualizing Key Economic Indicators," aims to provide an in-depth analysis and visualization of important economic indicators for various countries. By leveraging data from the World Bank, this project presents trends and insights in a user-friendly manner, enabling users to explore and understand the economic performance of different nations over time.
+This project aims to provide an in-depth analysis and visualization of important economic indicators for various countries. By leveraging data from the World Bank, this project presents trends and insights in a user-friendly manner, enabling users to explore and understand the economic performance of different nations over time.
 
 ## Features
 
