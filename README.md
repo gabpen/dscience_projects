@@ -51,7 +51,7 @@ This project provides an in-depth analysis and visualization of crucial economic
 **Technologies Used:** Python, Streamlit, Pandas, wbdata, Matplotlib, Seaborn
 
 
-### [5. Image Processing and OCR Project](imageProcesing/README.md)
+### [5. Image Processing and OCR Project](imageProcessing/README.md)
 
 This project leverages Tesseract OCR and OpenCV to extract text from images and detect faces within them. The goal is to search for a specific word in the text extracted from each image, and if found, detect and display faces from the corresponding image.
 
