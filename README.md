@@ -38,11 +38,11 @@ This project automates job postings extraction for Data Scientists in Panama Cit
 
 Under construction 👩‍💻
 
-### 3. Salary Prediction: Comparing k-NN and Linear Regression 
+### 3. Salary Prediction: k-NN vs. Linear Regression 
 
-This project compares k-Nearest Neighbors (k-NN) regression and Linear Regression for predicting data science salaries. The Elbow Method identified k = 3 as the optimal choice for k-NN, balancing accuracy and generalization. Both models were evaluated using R^2 and RMSE, revealing that k-NN outperforms Linear Regression with higher accuracy and lower error rates, making it the preferred model.  
+This project predicts data science salaries by comparing k-Nearest Neighbors (k-NN) regression and Linear Regression. The Elbow Method determined k = 3 as the optimal choice for k-NN, ensuring a balance between accuracy and generalization. Both models were assessed using R^2 and RMSE, with results showing that k-NN provides better predictive performance, capturing salary variations more effectively than the linear model.  
 
-**Technologies used:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.  
+**Technologies used:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 
 ### [4. Visualizing Key Economic Indicators](streamlitEconomicIndicators/README.md)
 
