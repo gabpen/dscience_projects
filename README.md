@@ -28,7 +28,7 @@ With a strong foundation in Economics and Development, I leverage data-driven in
 
 This repository contains projects focused on data science, economics, and data visualization. Each project folder contains a detailed README with information about the project, data sources, methodologies, and results.
 
-### 1.LinkedIn Job Scraper for Panama City(webScraping/README.md)
+### 1. LinkedIn Job Scraper for Panama City(webScraping/README.md)
 
 This project automates job postings extraction for Data Scientists in Panama City using web scraping. It retrieves key details such as job title, company, location, and job URL, iterating through multiple pages while handling missing data and network issues.
 
