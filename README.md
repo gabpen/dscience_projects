@@ -38,7 +38,7 @@ Examines the labor market for data scientists in Latin America, analyzing salary
 
 **Technologies Used:** Python, Pandas, NumPy, Seaborn, Matplotlib, Statsmodels, Scikit-learn.
 
-### 3. [Salary Prediction: k-NN vs. Linear Regression](salaryPredictionModels/README.md)
+### [3. Salary Prediction: k-NN vs. Linear Regression](salaryPredictionModels/README.md)
 
 Compares k-Nearest Neighbors (k-NN) regression vs. Linear Regression for predicting data science salaries. The Elbow Method determined k = 3 as the optimal value. Evaluation metrics include R² and RMSE. 
 
