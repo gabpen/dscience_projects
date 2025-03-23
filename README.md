@@ -26,31 +26,31 @@ With a strong foundation in Economics and Development, I leverage data-driven in
 
 This repository showcases data science, economic analysis, and visualization projects, each with a detailed README including methodologies, data sources, and key findings.
 
-### [1. LinkedIn Job Scraper for Panama City](webScraping/README.md)
+### [1. LinkedIn Job Scraper for Panama City](webScraping/)
 
 Automates job postings extraction for Data Scientists in Panama City using web scraping, retrieving job title, company, location, and job URL. Handles missing data and network issues efficiently.
 
 **Technologies Used:** Python, BeautifulSoup, Requests, Regular Expressions.
 
-### [2. Analyzing Data Science Job Market in Latin America](laborMarketEDA/README.md)
+### [2. Analyzing Data Science Job Market in Latin America](laborMarketEDA/)
 
 Examines the labor market for data scientists in Latin America, analyzing salary distributions, job requirements, and factors influencing earnings. Uses EDA and multivariate regression modeling to identify trends. 
 
 **Technologies Used:** Python, Pandas, NumPy, Seaborn, Matplotlib, Statsmodels, Scikit-learn.
 
-### [3. Salary Prediction: k-NN vs. Linear Regression](salaryPredictionModels/README.md)
+### [3. Salary Prediction: k-NN vs. Linear Regression](salaryPredictionModels/)
 
 Compares k-Nearest Neighbors (k-NN) regression vs. Linear Regression for predicting data science salaries. The Elbow Method determined k = 3 as the optimal value. Evaluation metrics include R² and RMSE. 
 
 **Technologies used:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 
-### [4. Visualizing Key Economic Indicators](streamlitEconomicIndicators/README.md)
+### [4. Visualizing Key Economic Indicators](streamlitEconomicIndicators/)
 
 Developed an interactive dashboard for analyzing economic indicators across countries using World Bank data. Users can select variables and generate customized visualizations.
 
 **Technologies Used:** Python, Streamlit, Pandas, wbdata, Matplotlib, Seaborn
 
-### [5. Image Processing and OCR Project](imageProcessing/README.md)
+### [5. Image Processing and OCR Project](imageProcessing/)
 
 Uses Tesseract OCR and OpenCV to extract text from images and detect faces when a specific keyword is found in the extracted text.
 
