@@ -5,14 +5,6 @@
 
 This project is a web scraper designed to extract job postings for Data Scientists in Panama City from LinkedIn. Using Python, BeautifulSoup, and Requests, it automates job searches, extracts key details (job title, company, location, and job URL), and enables further analysis of job demand in the region. While the default search is set to Data Scientist roles in Panama City, the scraper can be customized to retrieve job listings for any position in one or multiple countries.
 
-## How It Works 
-
-1. **Generate a LinkedIn Job Search URL:** Uses keywords (`position`) and `location` to create a search URL.  
-2. **Send an HTTP Request to LinkedIn:** Retrieves the job listing page using `requests.get()`.  
-3. **Parse the HTML with BeautifulSoup:** Extracts job titles, companies, locations, and job URLs from the page.
-4. **Loop Through Multiple Pages:** Continues scraping until no more jobs are found.
-5. **Store and Display Data:** Saves job listings in a structured format for further analysis.  
-
 ## Features 
 
 - **Automated Job Search:** Scrapes LinkedIn for job listings based on a specified job title and location.  
@@ -31,12 +23,11 @@ This project is a web scraper designed to extract job postings for Data Scientis
 
 ## How It Works 
 
-1. **Install Dependencies:** Ensures required libraries (`requests`, `beautifulsoup4`) are available.  
-2. **Generate a LinkedIn Job Search URL:** Uses job title and location to create a search query.  
-3. **Retrieve Job Listings:** Sends an HTTP request to LinkedIn using `requests.get()`.  
-4. **Extract Job Details:** Parses HTML with BeautifulSoup to retrieve job titles, companies, locations, and job URLs.  
-5. **Handle Pagination:** Iterates through multiple pages to collect all available job postings.  
-6. **Store and Display Results:** Outputs structured job data for further analysis or storage.  
+1. **Generate a LinkedIn Job Search URL:** Uses keywords (`position`) and `location` to create a search URL.  
+2. **Send an HTTP Request to LinkedIn:** Retrieves the job listing page using `requests.get()`.  
+3. **Parse the HTML with BeautifulSoup:** Extracts job titles, companies, locations, and job URLs from the page.
+4. **Loop Through Multiple Pages:** Continues scraping until no more jobs are found.
+5. **Store and Display Data:** Saves job listings in a structured format for further analysis.  
 
 ## Limitations
 

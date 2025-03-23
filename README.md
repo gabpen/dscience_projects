@@ -3,17 +3,15 @@
 
 Welcome! I’m Gabriela, an economist and data scientist with a Master's in Development Economics. My work focuses on data analysis, machine learning, and data visualization to uncover insights in areas like inclusive growth, gender inequality, and natural disasters.  
 
-Currently expanding my expertise in Data Science, I aim to leverage data-driven approaches to inform policy, research, and decision-making.  
-
 **What You’ll Find Here:**  
 - Economic & Social Data Analysis
-- Machine Learning for Economic Insights 
+- Machine Learning for Economic Insights
 - Interactive Visualizations & Dashboards
-- Custom Data Science Tools & Frameworks
+- Data Science Automation & Applied Machine Learning
 
 ## **About Me**  
 
-With a strong foundation in Economics and Development, I leverage data-driven insights to support informed decision-making and policy analysis. My passion lies in applying data science techniques to real-world challenges, particularly in economic development, inequality, and disaster analysis. Currently, I am pursuing an MSc in Data Science at UC Chile to deepen my expertise in machine learning, statistical modeling, and data visualization.  
+With a strong foundation in Economics and Development, I leverage data-driven insights to support informed decision-making and policy analysis. My passion lies in applying data science techniques to real-world challenges, particularly in economic development, inequality, and disaster analysis. Currently, I am pursuing an MSc in Data Science at UC Chile to deepen my expertise in machine learning, statistical modeling, and data visualization.
 
 ### **Skills**  
 
@@ -26,52 +24,45 @@ With a strong foundation in Economics and Development, I leverage data-driven in
 
 ## Projects
 
-This repository contains projects focused on data science, economics, and data visualization. Each project folder contains a detailed README with information about the project, data sources, methodologies, and results.
+This repository showcases data science, economic analysis, and visualization projects, each with a detailed README including methodologies, data sources, and key findings.
 
-### 1. LinkedIn Job Scraper for Panama City(webScraping/README.md)
+### [1. LinkedIn Job Scraper for Panama City](webScraping/README.md)
 
-This project automates job postings extraction for Data Scientists in Panama City using web scraping. It retrieves key details such as job title, company, location, and job URL, iterating through multiple pages while handling missing data and network issues.
+Automates job postings extraction for Data Scientists in Panama City using web scraping, retrieving job title, company, location, and job URL. Handles missing data and network issues efficiently.
 
 **Technologies Used:** Python, BeautifulSoup, Requests, Regular Expressions.
 
-### 2. EDA
+### [2. Analyzing Data Science Job Market in Latin America](laborMarketEDA/README.md)
 
-Under construction 👩‍💻
+Examines the labor market for data scientists in Latin America, analyzing salary distributions, job requirements, and factors influencing earnings. Uses EDA and multivariate regression modeling to identify trends. 
 
-### 3. Salary Prediction: k-NN vs. Linear Regression 
+**Technologies Used:** Python, Pandas, NumPy, Seaborn, Matplotlib, Statsmodels, Scikit-learn.
 
-This project predicts data science salaries by comparing k-Nearest Neighbors (k-NN) regression and Linear Regression. The Elbow Method determined k = 3 as the optimal choice for k-NN, ensuring a balance between accuracy and generalization. Both models were assessed using R^2 and RMSE, with results showing that k-NN provides better predictive performance, capturing salary variations more effectively than the linear model.  
+### 3. [Salary Prediction: k-NN vs. Linear Regression](salaryPredictionModels/README.md)
+
+Compares k-Nearest Neighbors (k-NN) regression vs. Linear Regression for predicting data science salaries. The Elbow Method determined k = 3 as the optimal value. Evaluation metrics include R² and RMSE. 
 
 **Technologies used:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 
 ### [4. Visualizing Key Economic Indicators](streamlitEconomicIndicators/README.md)
 
-This project provides an in-depth analysis and visualization of crucial economic indicators for various countries, using World Bank data to present trends and insights interactively. Users can select countries and indicators to generate customized visualizations, aiding in the understanding of global economic performance.
+Developed an interactive dashboard for analyzing economic indicators across countries using World Bank data. Users can select variables and generate customized visualizations.
 
 **Technologies Used:** Python, Streamlit, Pandas, wbdata, Matplotlib, Seaborn
 
-
 ### [5. Image Processing and OCR Project](imageProcessing/README.md)
 
-This project leverages Tesseract OCR and OpenCV to extract text from images and detect faces within them. The goal is to search for a specific word in the text extracted from each image, and if found, detect and display faces from the corresponding image.
+Uses Tesseract OCR and OpenCV to extract text from images and detect faces when a specific keyword is found in the extracted text.
 
 **Technologies used:** Python, Tesseract OCR, OpenCV, Pillow, numpy.
-
-### [6. Database Management and Query Optimization]
-
-Under construction 👩‍💻
-
-### [7. Interactive Charts and Dashboards]
-
-Under construction 👩‍💻
 
 ## Education and Certifications
 
 ### Education
 
-- **Pontificia Universidad Católica de Chile (Aug 2024 - Sep 2026):** 
+- **Pontificia Universidad Católica de Chile (2024 - 2026):** 
   - Master of Science, Major in Data Science
-- **Facultad Latinoamericana de Ciencias Sociales (Oct 2020 - Mar 2023):** 
+- **Facultad Latinoamericana de Ciencias Sociales (2020 - 2023):** 
   - Master of Arts, Major in Development Economics
 
 ### Certifications
