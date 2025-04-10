@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Image Processing and OCR Project! This project is the final project for the Python 3 Programming Specialization at the University of Michigan. It involves processing a zip file containing multiple images, extracting text from each image, and detecting faces in images that contain a specified word. The detected faces are then displayed in a contact sheet format.
+Welcome to the Image Processing and OCR Project! It involves processing a zip file containing multiple images, extracting text from each image, and detecting faces in images that contain a specified word. The detected faces are then displayed in a contact sheet format.
 
 ## How It Works
 
