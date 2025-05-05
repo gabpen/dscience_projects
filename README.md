@@ -1,13 +1,13 @@
 
 # My Data Science Portfolio
 
-Welcome! I’m Gabriela, an economist and data scientist with a Master’s in Development Economics. My work brings together data analysis, machine learning, and visualization to explore labor markets, build predictive models, automate processes, and create interactive tools for economic monitoring and decision support. 
+Welcome! I’m Gabriela, an economist and data scientist with a Master’s in Development Economics. My work bridges data analysis, statistical modeling, and interactive visualization to investigate labor markets, forecast outcomes, and develop tools that support economic decision-making. 
 
 **What You’ll Find Here:**  
 - Economic & Labor Market Data Analysis
-- Machine Learning for Predictive Modeling
-- Interactive Dashboards & Visualization Tools
-- Structured Analysis and Modeling Workflows
+- Predictive Modeling & Machine Learning
+- Interactive Dashboards & Data Visualization
+- Applied Statistical Methods (Longitudinal & Survival Analysis)
 
 ## **About Me**  
 
@@ -16,11 +16,11 @@ With a strong foundation in Economics and Development, I apply data science meth
 ### **Skills**  
 
 - **Programming:** Python, Stata, R, SQL  
-- **Data Analysis & Processing:** Pandas, NumPy, Statsmodels  
-- **Machine Learning:** Scikit-learn 
-- **Survival Analysis:** survival, survminer (R) 
+- **Data Analysis & Processing:** pandas, NumPy, dplyr, statsmodels
+- **Statistical Modeling & Machine Learning**: scikit-learn, nlme, survival, survminer
+- **Survival Analysis:** Kaplan-Meier, log-rank test, Cox regression (R)
 - **Image Processing & OCR:** Tesseract OCR, OpenCV, Pillow  
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  
+- **Data Visualization:** matplotlib, seaborn, ggplot2, plotly, Tableau, Power BI 
 - **Other Tools:** Git, GitHub, Jupyter Notebooks
 
 ## Projects
@@ -63,6 +63,12 @@ Applies survival analysis to examine how individual characteristics influence th
 
 **Technologies used:** R, survival, survminer, ggplot2, dplyr
 
+### [7. Longitudinal Modeling of Craniofacial Growth](LongitudinalData/)
+
+Applies linear mixed-effects models to analyze craniofacial development in children and adolescents using longitudinal data. Combines exploratory visualization with random-intercept and random-slope models to evaluate individual and gender-based differences in growth trajectories.
+
+**Technologies used:** R, nlme, ggplot2, dplyr
+
 ## Education and Certifications
 
 ### Education
@@ -85,4 +91,3 @@ Applies survival analysis to examine how individual characteristics influence th
 
 This repository is licensed under the MIT License. See the [LICENSE](https://mit-license.org) file for more details.
 
----
