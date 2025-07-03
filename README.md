@@ -80,10 +80,10 @@ Applies linear mixed-effects models to analyze craniofacial development in child
 
 ### Certifications
 
-- Data Analytics Professional Certificate – Google on Coursera
-- Python 3 Programming Specialization – University of Michigan on Coursera
-- Statistics with Python Specialization – University of Michigan on Coursera
-- Python for Everybody - University of Michigan on Coursera
+- Data Analytics Professional Certificate – Google
+- Python 3 Programming Specialization – University of Michigan
+- Statistics with Python Specialization – University of Michigan
+- Python for Everybody - University of Michigan
 - Treatment, Statistical Modeling, and Dynamic Visualization with R - R Users Group Ecuador
 - Data Science: R Basics – Harvard on edX
 
