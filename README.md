@@ -1,91 +1,60 @@
 
-# My Data Science Portfolio
+# Data Science Portfolio
 
-Welcome! I’m Gabriela, an economist and data scientist with a Master’s in Development Economics. My work bridges data analysis, statistical modeling, and interactive visualization to investigate labor markets, forecast outcomes, and develop tools that support economic decision-making. 
+Welcome to my portfolio repository — a curated collection of data science projects showcasing my ability to work across the full data pipeline. From data acquisition and preprocessing to modeling, evaluation, and visualization, these projects highlight my hands-on experience with supervised learning, statistical modeling, computer vision, and interactive tools. I focus on building reproducible, interpretable, and production-ready workflows that turn complex datasets into actionable insights.
 
-**What You’ll Find Here:**  
-- Economic & Labor Market Data Analysis
-- Predictive Modeling & Machine Learning
-- Interactive Dashboards & Data Visualization
-- Applied Statistical Methods (Longitudinal & Survival Analysis)
+---
 
-## **About Me**  
+## What’s Inside
 
-With a strong foundation in Economics and Development, I apply data science methods to real-world challenges, combining analytical rigor with hands-on tools to support data-driven problem solving. I'm currently pursuing an MSc in Data Science at UC Chile to expand my expertise in statistical modeling, machine learning, and the effective presentation of analytical results.
+Each folder contains a self-contained project, complete with code, documentation, and visual results. Key themes include labor economics, statistical modeling, and machine learning for development. Highlights include:
 
-### **Skills**  
+### 🔗 Quick Access to Projects
 
-- **Programming:** Python, Stata, R, SQL  
-- **Data Analysis & Processing:** pandas, NumPy, dplyr, statsmodels
-- **Statistical Modeling & Machine Learning**: scikit-learn, nlme, survival, survminer
-- **Survival Analysis:** Kaplan-Meier, log-rank test, Cox regression (R)
-- **Image Processing & OCR:** Tesseract OCR, OpenCV, Pillow  
-- **Data Visualization:** matplotlib, seaborn, ggplot2, plotly, Tableau, Power BI 
-- **Other Tools:** Git, GitHub, Jupyter Notebooks
+* [`job-scraper-panama`](webScraping/) – Automates job scraping from LinkedIn for Panama City
+* [`latam-ds-job-market`](laborMarketEDA/) – Analyzes the data science job market in Latin America
+* [`salary-prediction`](salaryPredictionModels/) – Compares k-NN and Linear Regression for salary prediction
+* [`economic-indicators-dashboard`](streamlitEconomicIndicators/) – Interactive dashboard for economic data
+* [`ocr-image-processing`](imageProcessing/) – Text extraction and face detection from images
+* [`recidivism-survival-analysis`](survivalAnalysis/) – Survival models for recidivism risk
+* [`cranio-growth-longitudinal`](LongitudinalData/) – Mixed-effects models for growth trajectories
+* [`poverty-cnn-sustainlab`](satelliteDeepLearning/) – CNNs to predict poverty using satellite imagery
 
-## Projects
+---
 
-This repository showcases data science, economic analysis, and visualization projects, each with a detailed README including methodologies, data sources, and key findings.
+## 📂 New: Poverty Prediction with Satellite Imagery
 
-### [1. LinkedIn Job Scraper for Panama City](webScraping/)
+This project applies **Convolutional Neural Networks (CNNs)** to estimate poverty levels in Africa using the SustainBench SDG1 dataset on poverty change. It compares ResNet18, ResNet50, and EfficientNet-B0 using 5-fold cross-validation. Users can choose between **true-color** or **false-color** band compositions when preparing the satellite imagery.
 
-Automates job postings extraction for Data Scientists in Panama City using web scraping, retrieving job title, company, location, and job URL. Handles missing data and network issues efficiently.
+🔍 **Key Features:**
 
-**Technologies Used:** Python, BeautifulSoup, Requests, Regular Expressions.
+* Predicts poverty with satellite images where on-the-ground data is scarce
+* Includes model evaluation (MAE, R²), training visualizations, and final performance comparison across CNNs
+* Offers a configurable setup for band composition (RGB vs. NIR-R-G)
 
-### [2. Analyzing Data Science Job Market in Latin America](laborMarketEDA/)
+📁 **Tools:** PyTorch · Scikit-learn · OpenCV · PIL · Pandas · NumPy
 
-Examines the labor market for data scientists in Latin America, analyzing salary distributions, job requirements, and factors influencing earnings. Uses EDA and multivariate regression modeling to identify trends. 
+🧪 [Full project details here](satelliteDeepLearning/) — including visualizations and code to reproduce results.
 
-**Technologies Used:** Python, Pandas, NumPy, Seaborn, Matplotlib, Statsmodels, Scikit-learn.
+---
 
-### [3. Salary Prediction: k-NN vs. Linear Regression](salaryPredictionModels/)
+## Technologies Used
 
-Compares k-Nearest Neighbors (k-NN) regression vs. Linear Regression for predicting data science salaries. The Elbow Method determined k = 3 as the optimal value. Evaluation metrics include R² and RMSE. 
+Python · R · PyTorch · pandas · scikit-learn · NumPy · Streamlit · statsmodels · OpenCV · Tesseract OCR · Torchvision · Matplotlib · Seaborn · ggplot2 · survminer · dplyr
 
-**Technologies used:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+---
 
-### [4. Visualizing Key Economic Indicators](streamlitEconomicIndicators/)
+## Why This Portfolio
 
-Developed an interactive dashboard for analyzing economic indicators across countries using World Bank data. Users can select variables and generate customized visualizations.
+This space brings together what I enjoy most: working with real-world data, designing tools with clear purpose, and communicating results visually and rigorously. It’s an evolving reflection of how I approach applied data science — always learning, experimenting, and iterating.
 
-**Technologies Used:** Python, Streamlit, Pandas, wbdata, Matplotlib, Seaborn
+---
 
-### [5. Image Processing and OCR Project](imageProcessing/)
+## 💡 Tip
 
-Uses Tesseract OCR and OpenCV to extract text from images and detect faces when a specific keyword is found in the extracted text.
+Each project is designed to be replicable and adaptable. Feel free to explore, use, or reach out with questions and ideas.
 
-**Technologies used:** Python, Tesseract OCR, OpenCV, Pillow, numpy.
-
-### [6. Survival Analysis of Recidivism Risk](survivalAnalysis/)
-
-Applies survival analysis to examine how individual characteristics influence the timing of recidivism after release. Combines Kaplan-Meier estimates, log-rank tests, complementary log-log plots, and Cox regression models to identify key risk and protective factors.
-
-**Technologies used:** R, survival, survminer, ggplot2, dplyr
-
-### [7. Longitudinal Modeling of Craniofacial Growth](LongitudinalData/)
-
-Applies linear mixed-effects models to analyze craniofacial development in children and adolescents using longitudinal data. Combines exploratory visualization with random-intercept and random-slope models to evaluate individual and gender-based differences in growth trajectories.
-
-**Technologies used:** R, nlme, ggplot2, dplyr
-
-## Education and Certifications
-
-### Education
-
-- **Pontificia Universidad Católica de Chile (2024 - 2026):** 
-  - Master of Science, Major in Data Science
-- **Facultad Latinoamericana de Ciencias Sociales (2020 - 2023):** 
-  - Master of Arts, Major in Development Economics
-
-### Certifications
-
-- Data Analytics Professional Certificate – Google
-- Python 3 Programming Specialization – University of Michigan
-- Statistics with Python Specialization – University of Michigan
-- Python for Everybody - University of Michigan
-- Treatment, Statistical Modeling, and Dynamic Visualization with R - R Users Group Ecuador
-- Data Science: R Basics – Harvard on edX
+---
 
 ## License
 
