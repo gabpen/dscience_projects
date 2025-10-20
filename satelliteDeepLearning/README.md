@@ -38,8 +38,6 @@ img_array[0]   # Blue
 - **Scikit-learn:** Model evaluation (MAE, R²) and K-Fold cross-validation
 - **Matplotlib:** Visualization of training curves and prediction results
 
-This is already very clear and well-structured, gabpen! Here's a lightly polished version that improves flow and consistency while keeping your tone intact:
-
 ## How to Use
 
 1. **Download the Data:**
