@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-This project applies Convolutional Neural Networks (CNNs) to estimate poverty levels in Africa using satellite imagery, specifically the SustainBench SDG1 dataset on poverty change. The goal is to explore how satellite imagery can help track poverty in regions with limited on-the-ground data. The study evaluates three CNN architectures—ResNet18, ResNet50, and EfficientNet-B0—through k-fold cross-validation, comparing their performance and examining prediction quality across the test set. This work demonstrates how machine learning and remote sensing can support socioeconomic analysis when traditional data collection is limited or unavailable.
+This project applies Convolutional Neural Networks (CNNs) to estimate poverty levels in Africa using satellite imagery, specifically the SustainBench SDG1 dataset on poverty change. The goal is to explore how satellite imagery can help track poverty in regions with limited on-the-ground data. The study evaluates three CNN architectures: ResNet18, ResNet50, and EfficientNet-B0, through k-fold cross-validation, comparing their performance and examining prediction quality across the test set. This work demonstrates how machine learning and remote sensing can support socioeconomic analysis when traditional data collection is limited or unavailable.
 
 ## Features
 
@@ -48,7 +48,7 @@ img_array[0]   # Blue
    * `lsms_asset_indices.csv`: Metadata and poverty labels for each image
    * `lsms.tar.gz`: Compressed folder with satellite image patches
 
-   💡 **Note:** Convert `lsms.tar.gz` to `.zip` if needed before use.
+   **Note:** Convert `lsms.tar.gz` to `.zip` if needed before use.
 
    For convenience, this repository already includes:
 
