@@ -1,7 +1,7 @@
 
 # Data Science Portfolio
 
-Welcome to my portfolio repository — a curated collection of data science projects showcasing my ability to work across the full data pipeline. From data acquisition and preprocessing to modeling, evaluation, and visualization, these projects highlight my hands-on experience with supervised learning, statistical modeling, computer vision, and interactive tools. I focus on building reproducible, interpretable, and production-ready workflows that turn complex datasets into actionable insights.
+Welcome to my portfolio repository, a curated collection of data science projects showcasing my ability to work across the full data pipeline. From data acquisition and preprocessing to modeling, evaluation, and visualization, these projects highlight my hands-on experience with supervised learning, statistical modeling, computer vision, and interactive tools. I focus on building reproducible, interpretable, and production-ready workflows that turn complex datasets into actionable insights.
 
 ---
 
